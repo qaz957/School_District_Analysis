@@ -19,10 +19,10 @@ Our intial analysis of the schools districsts found that Thomas High School rank
 Thomas High School more than likely ranks in the middle of the pack when is comes to academic performance.
 
 ### How does this data affect other metrics?
-#### By grade
+#### Grade
 Predictably, removing the scores from one grade will not affect the others. This data remains unchanged.
 
-#### By Schools Spending
+#### Schools Spending
 Spending $638/student Thomas High School falls with the spedning bin for $630-$644. Originally, that bin had a passing rate of 63%.
 
 ![School_Spending_Summary_Original](https://user-images.githubusercontent.com/108296899/184221661-5bae2d76-5e34-4743-84f4-77a61d06c09f.png)
@@ -31,7 +31,7 @@ After adjusting the data, we see that drop to 56%.
 
 ![School_Spending_Summary_Adjusted](https://user-images.githubusercontent.com/108296899/184221848-da9ab1e3-0f0c-4cab-a94f-6a383a53f1b5.png)
 
-#### By School Size
+#### School Size
 
 Thomas falls into the "Medium" school category. Similarly, we can see a 6 point drop in passing percentage for "Medium" schools
 
@@ -43,4 +43,19 @@ Thomas falls into the "Medium" school category. Similarly, we can see a 6 point 
 
 ![School_Size_Summary_New](https://user-images.githubusercontent.com/108296899/184222312-9c860225-5531-4cd4-9ed0-f9a57b0d223a.png)
 
+#### School Type
 
+As a charter school Thomas affects the academic performance of other charter schools, decreasing by 3%.
+
+- Original:
+ 
+![School_Type_Summary_Original](https://user-images.githubusercontent.com/108296899/184222816-df6f3a47-8f8e-4a43-80aa-318a2482f1cd.png)
+
+
+- Adjusted:
+ 
+![School_Type_Summary_New](https://user-images.githubusercontent.com/108296899/184222868-6e352d61-dcdd-4908-b9b5-f64f132837b1.png)
+
+## Summary
+
+We can see here that these four metrics, although to different degress, have been affected by this academic dishonesty. Throwing this data can affect
