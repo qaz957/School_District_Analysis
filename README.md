@@ -58,4 +58,4 @@ As a charter school Thomas affects the academic performance of other charter sch
 
 ## Summary
 
-We can see here that these four metrics, although to different degress, have been affected by this academic dishonesty. Throwing this data can affect
+We can see here that these four metrics, although to different degress, have been affected by this academic dishonesty. Throwing this data can affect things like funding allocation and teacher performance. Even such a small sample size of discrepancy of data has a cascading effect on the rest of the demographics that Thomas High School falls within.
